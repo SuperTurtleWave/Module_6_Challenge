@@ -45,7 +45,7 @@ jupyter lab build
 
 ---
 
-![Sample Map](/Starter_Code/images/mapbox-plot.png)
+![Sample Map](/Starter_Code/Images/mapbox-plot.png)
 
 ---
 
